@@ -23,4 +23,4 @@ Machine learning project to estimate Amazon order delivery times using order, ag
 ---
 
 ## Author
-**Junaid Kamate**
+## Junaid Kamate

@@ -1,6 +1,6 @@
 # Amazon Delivery Time Predictor 🚚⏱️
 
-[Live Demo](https://amazon-delivery-predictor-lcup6rbytbwjnq6tns59gk.streamlit.app/)  
+[Live App](https://amazon-delivery-predictor-lcup6rbytbwjnq6tns59gk.streamlit.app/)  
 
 Machine learning project to estimate Amazon order delivery times using order, agent, and product features. Built with Python, trained on regression models, and deployed as an interactive Streamlit app.
 
@@ -19,16 +19,6 @@ Machine learning project to estimate Amazon order delivery times using order, ag
 - **Visualization**: Matplotlib, Seaborn  
 - **Experiment Tracking**: MLflow  
 - **Deployment**: Streamlit  
-
----
-
-## Run Locally
-```bash
-git clone https://github.com/JunaidKamate/amazon-delivery-predictor.git
-cd amazon-delivery-predictor
-pip install -r requirements.txt
-streamlit run streamlit_app.py
-Open: http://localhost:8501
 
 ---
 
